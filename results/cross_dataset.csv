@@ -1,0 +1,4 @@
+model,oa,auc,precision,recall,f1,oa_printed_in_thesis,oa_source
+HyMaC-Net-B,75.35,0.9069,0.8221,0.7535,0.7089,78.05,weighted recall (Table 5.13) = Figure 5.6
+ResNet-50,64.10,0.7540,0.6400,0.6410,0.6470,65.12,weighted recall (Table 5.13)
+ViT-B/16,60.00,0.7000,0.5900,0.6000,0.5930,60.00,weighted recall (Table 5.13)

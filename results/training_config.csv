@@ -1,0 +1,13 @@
+dataset,setting,lr,weight_decay,loss,dropout,dropblock,batch_size,aux_weight
+CPN X-ray,tweaked,1.0e-4,1.0e-2,CE + label smoothing 0.1,0.15,0.15,32,0.30
+Kvasir,tweaked,7.5e-5,1.0e-2,CE + label smoothing 0.1,0.15,0.15,32,0.30
+OrganAMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+OrganCMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+OrganSMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+OCTMNIST,global,1.5e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+PathMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+TissueMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+PneumoniaMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+DermaMNIST,global,7.5e-5,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+BreastMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30
+BloodMNIST,global,1.0e-4,1.0e-2,Focal (gamma 2.0),0.15,0.15,32,0.30

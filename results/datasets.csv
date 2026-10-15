@@ -1,0 +1,15 @@
+dataset,modality,task,classes,images,source
+PathMNIST,Colon pathology (H&E),multi-class,9,107180,MedMNIST v2 (NCT-CRC-HE-100K / CRC-VAL-HE-7K)
+DermaMNIST,Dermatoscope,multi-class,7,10015,MedMNIST v2 (HAM10000)
+OCTMNIST,Retinal OCT,multi-class,4,109309,MedMNIST v2
+PneumoniaMNIST,Chest X-ray (paediatric),binary,2,5856,MedMNIST v2
+BreastMNIST,Breast ultrasound,binary,2,780,MedMNIST v2
+BloodMNIST,Blood cell microscopy,multi-class,8,17092,MedMNIST v2
+TissueMNIST,Kidney cortex cells (BBBC051),multi-class,8,236386,MedMNIST v2
+OrganAMNIST,Abdominal CT (axial),multi-class,11,58850,MedMNIST v2 (LiTS)
+OrganCMNIST,Abdominal CT (coronal),multi-class,11,23660,MedMNIST v2 (LiTS)
+OrganSMNIST,Abdominal CT (sagittal),multi-class,11,25221,MedMNIST v2 (LiTS)
+CPN X-ray,Chest X-ray (COVID-19 / normal / pneumonia),multi-class,3,5228,CPN X-ray
+Kvasir,GI endoscopy,multi-class,8,4000,Kvasir
+BRISC-25,Brain MRI (T1),multi-class,4,6000,cross-dataset training set
+Brain Tumor MRI (Kaggle),Brain MRI,multi-class,4,7023,cross-dataset test set

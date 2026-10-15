@@ -1,0 +1,13 @@
+dataset,oa,auc,precision,recall,specificity,f1,kappa,oa_printed_in_thesis,oa_source
+CPN X-ray,97.20,0.9981,0.9727,0.9720,0.9858,0.9719,0.9579,97.20,weighted recall (Table 5.2)
+Kvasir,82.67,0.9833,0.8278,0.8267,0.9752,0.8262,0.8019,84.67,weighted recall (Table 5.2)
+OrganAMNIST,93.81,0.9978,0.9385,0.9381,0.9938,0.9372,0.9306,97.83,weighted recall (Table 5.2) = Figure 5.1
+OrganCMNIST,92.17,0.9956,0.9222,0.9217,0.9921,0.9215,0.9115,92.17,weighted recall (Table 5.2) = Figure 5.1
+OrganSMNIST,80.74,0.9794,0.8104,0.8074,0.9803,0.8039,0.7788,85.74,weighted recall (Table 5.2) = Figure 5.1
+OCTMNIST,85.80,0.9798,0.8992,0.8580,0.9527,0.8557,0.8107,90.00,weighted recall (Table 5.2) = Figure 5.1
+PathMNIST,93.45,0.9908,0.9323,0.9345,0.9920,0.9310,0.9260,96.00,weighted recall (Table 5.2)
+TissueMNIST,67.79,0.9300,0.6778,0.6779,0.9508,0.6766,0.5973,69.31,Figure 5.1 (all except AUC)
+PneumoniaMNIST,86.38,0.9700,0.8820,0.8638,0.8218,0.8565,0.6889,88.25,weighted recall (Table 5.2) = Figure 5.1
+DermaMNIST,74.96,0.9170,0.7228,0.7496,0.9229,0.7298,0.4703,76.54,weighted recall (Table 5.2) = Figure 5.1
+BreastMNIST,87.18,0.8860,0.8701,0.8718,0.8296,0.8708,0.6692,90.41,weighted recall (Table 5.2) = Figure 5.1
+BloodMNIST,97.87,0.9991,0.9788,0.9787,0.9969,0.9787,0.9751,97.87,weighted recall (Table 5.2) = Figure 5.1

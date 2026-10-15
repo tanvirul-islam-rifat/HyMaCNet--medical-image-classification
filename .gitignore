@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# model weights and data are not part of this repository
+*.pth
+*.pt
+*.ckpt
+data/

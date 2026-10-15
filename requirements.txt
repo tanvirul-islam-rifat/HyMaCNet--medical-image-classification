@@ -1,0 +1,3 @@
+# tools.metrics, tools.check_results and the tests use only the Python standard library.
+# matplotlib is needed only to redraw the figures (python -m tools.make_figures).
+matplotlib>=3.7

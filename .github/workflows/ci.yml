@@ -1,0 +1,23 @@
+name: Results check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests (metrics, Wilcoxon test, checker incl. corrupted-data tests)
+        run: python -m unittest discover -s tests -t . -v
+      - name: Consistency checks on the released results
+        run: python -m tools.check_results
+      - name: Figures regenerate from results/
+        run: |
+          pip install -r requirements.txt
+          python -m tools.make_figures

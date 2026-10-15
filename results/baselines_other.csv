@@ -1,0 +1,13 @@
+model,dataset,oa,auc
+MedMamba-S,CPN X-ray,97.3,0.997
+TNT-S,CPN X-ray,93.2,0.987
+PVTv2-b2,CPN X-ray,96.2,0.994
+DaViT-tiny,CPN X-ray,95.1,0.993
+DeiT-small,CPN X-ray,95.1,0.990
+EfficientNetV2-S,CPN X-ray,95.7,0.993
+MedMamba-T,Kvasir,79.3,0.976
+TNT-S,Kvasir,76.2,0.953
+PVTv2-b2,Kvasir,75.6,0.958
+DaViT-tiny,Kvasir,73.6,0.966
+DeiT-small,Kvasir,78.1,0.977
+EfficientNetV2-S,Kvasir,78.2,0.972

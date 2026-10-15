@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the thesis below. A paper citation will be added on publication."
+title: "HyMaC-Net: A Hybrid Lightweight Mamba-CNN Framework with Patch Embedding for Medical Image Classification"
+type: software
+authors:
+  - family-names: Das
+    given-names: Sourav
+    affiliation: BRAC University
+  - family-names: Chakraborty
+    given-names: Shibam
+    affiliation: BRAC University
+  - family-names: Turja
+    given-names: Sakibul Hasan
+    affiliation: BRAC University
+  - family-names: Rifat
+    given-names: Md. Tanvirul Islam
+    affiliation: BRAC University
+repository-code: "https://github.com/tanvirul-islam-rifat/HyMaCNet--medical-image-classification"
+keywords:
+  - medical image classification
+  - Mamba
+  - state space models
+  - hybrid CNN
+  - MedMNIST
+  - efficient deep learning
+preferred-citation:
+  type: thesis
+  title: "HyMaC-Net: A Hybrid Lightweight Mamba-CNN Framework with Patch Embedding for Medical Image Classification"
+  authors:
+    - family-names: Das
+      given-names: Sourav
+    - family-names: Chakraborty
+      given-names: Shibam
+    - family-names: Turja
+      given-names: Sakibul Hasan
+    - family-names: Rifat
+      given-names: Md. Tanvirul Islam
+  thesis-type: "B.Sc. thesis"
+  institution:
+    name: "BRAC University, Department of Computer Science and Engineering"
+  year: 2025

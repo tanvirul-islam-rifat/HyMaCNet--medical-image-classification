@@ -1,0 +1,11 @@
+model,family,params_m,gflops
+ResNet-18,CNN,11.7,1.8
+ResNet-50,CNN,25.6,4.1
+MedViT-T,CNN-Transformer,10.8,1.3
+MedViT-S,CNN-Transformer,23.6,4.9
+MedViT-L,CNN-Transformer,45.8,13.4
+MedMamba-T,SSM,14.5,2.0
+MedMamba-S,SSM,22.8,3.5
+MedMamba-B,SSM,47.1,7.4
+HyMaC-Net-S,CNN-SSM (ours),9.4,1.26
+HyMaC-Net-B,CNN-SSM (ours),20.5,2.36
