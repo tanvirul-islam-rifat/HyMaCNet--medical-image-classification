@@ -283,7 +283,7 @@ Training code and trained weights are withheld until the associated paper is pub
 }
 ```
 
-GitHub's **Cite this repository** button uses [`CITATION.cff`](CITATION.cff). The paper citation will be added on publication.
+The paper has been **accepted for publication in *Scientific Reports*** (Nature Portfolio). The journal citation and DOI will be added here once it is published; until then, please cite the thesis above. GitHub's **Cite this repository** button uses [`CITATION.cff`](CITATION.cff).
 
 ## Acknowledgements
 
