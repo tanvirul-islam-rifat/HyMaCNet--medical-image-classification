@@ -6,7 +6,7 @@
 
 [![Results check](https://github.com/tanvirul-islam-rifat/HyMaCNet--medical-image-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/tanvirul-islam-rifat/HyMaCNet--medical-image-classification/actions/workflows/ci.yml)
 ![Thesis](https://img.shields.io/badge/B.Sc.%20thesis-BRAC%20University%20%C2%B7%20CSE400-0b5394)
-![Paper](https://img.shields.io/badge/paper-in%20preparation-orange)
+![Paper](https://img.shields.io/badge/paper-accepted%20%C2%B7%20Scientific%20Reports-brightgreen)
 ![Benchmarks](https://img.shields.io/badge/benchmarks-12%20datasets%20%C2%B7%206%20modalities-1baf7a)
 ![Model](https://img.shields.io/badge/HyMaC--Net--S-9.4%20M%20params%20%C2%B7%201.26%20GFLOPs-2a78d6)
 
